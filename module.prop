@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=AOSP_Keyboard_Installer
+name=AOSP Keyboard Installer Magisk Module
+version=v0.2
+versionCode=v0.2
+author=diskoteer
+description=Installs AOSP Keyboard and enable gesture typing, so far only on ARM64 devices.
