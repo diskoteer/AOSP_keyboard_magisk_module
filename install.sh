@@ -3,7 +3,7 @@
 # Magisk
 # by topjohnwu
 #
-# AOSP Keyboard 8.1
+# AOSP Keyboard 9
 # so far for ARM64 devices only
 # by diskoteer
 #
@@ -127,9 +127,9 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "*******************************"
+  ui_print "*************************************"
   ui_print "     AOSP Keyboard for ARM64   "
-  ui_print "*******************************"
+  ui_print "*************************************"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
